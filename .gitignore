@@ -1,0 +1,12 @@
+# Ignore all hidden files and folders
+.*
+.*/ 
+**/.* 
+**/.*/ 
+
+# Re-include the .git directory and .gitignore file
+!/.git/
+!.gitignore
+
+# Re-include specific hidden file
+!/my-agents/hotel-agent-app/.env
