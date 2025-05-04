@@ -1,2 +1,2 @@
-# build-with-ai
-A collation of projects from the build with AI event
+# MCP-Travel-Agent
+An AI agent that queries your database to find information about hotels in different cities.
